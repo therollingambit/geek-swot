@@ -33,4 +33,4 @@ run `pip list` to see all packages installed
 ### init database
 - in terminal, run `python manage.py makemigrations`
 - next, run `python manage.py migrate`
-- this will create a *sqlite3 file*
+- this will create a *db.sqlite3* file
